@@ -1,3 +1,3 @@
 # Listado de colaboradores
 
-- Cristian Azurdia
+- <div> lorem ipsum CRISTIAN azu </div>
